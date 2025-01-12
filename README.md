@@ -90,13 +90,13 @@
 
 ## Example Folder Structure
 
-For a USB drive connected on **30-12-2024** with a size of **1288610213 bytes**, the folder structure will look like this:
+For a USB drive connected on **01-01-2000** with a size of **123456789 bytes**, the folder structure will look like this:
 
 ```
 C:\
 └── UsbSystem\
     ├── MyUSBDrive\             # If USB has a name
-    └── Date[30-12-2024] Size[1288610213]\  # If USB has no name
+    └── Date[01-01-2000] Size[1288610213]\  # If USB has no name
         ├── File1.txt
         ├── File2.jpg
         └── ...
